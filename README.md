@@ -24,7 +24,7 @@ It merely scrapes 3rd-party websites that are publicly accessable via any regula
 the responsibility of user to avoid any actions that might violate the laws governing his/her
 locality. Use AnimeHub at your own risk.
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/prabhat-kushwaha/AnimeHub/blob/main/apk/AnimeHub.zip)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/prabhat-kushwaha/AnimeHub/releases/download/1.0.0/AnimeHub.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 
