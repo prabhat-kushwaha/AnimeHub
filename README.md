@@ -25,7 +25,7 @@ the responsibility of user to avoid any actions that might violate the laws gove
 locality. Use AnimeHub at your own risk.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")]([https://github.com/prabhat-kushwaha/AnimeHub/blob/main/apk/AnimeHub.apk](https://drive.google.com/file/d/1mPQ4Llnr_8CGLR1H7G8-RGP399auiUBQ/view?usp=sharing))
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")]([https://drive.google.com/file/d/1mPQ4Llnr_8CGLR1H7G8-RGP399auiUBQ/view?usp=sharing])
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 
