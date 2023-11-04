@@ -23,7 +23,7 @@ convenient, user-friendly interface.
 It merely scrapes 3rd-party websites that are publicly accessable via any regular web browser. It is
 the responsibility of user to avoid any actions that might violate the laws governing his/her
 locality. Use AnimeHub at your own risk.
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/prabhat-kushwaha/AnimeHub/blob/main/apk/AnimeHub.apk)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/prabhat-kushwaha/AnimeHub/blob/main/apk/AnimeHub.zip)
 
 
 
