@@ -5,7 +5,7 @@ It's designed to be easy to use, so you can quickly find the anime you want to w
 streaming. if you're a die-hard anime fan or a casual
 viewer, AnimeHub has something for everyone.
 
-**Disclaimer:***
+**Disclaimer:**
 
 Any legal issues regarding the content on this application should be taken up with the actual file
 hosts and providers themselves as we are not affiliated with them.
